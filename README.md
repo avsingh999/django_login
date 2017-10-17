@@ -34,7 +34,7 @@ Mohit Kumar Yadav
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="50" padding="10">](https://github.com/mohitkyadav)
 
 ## Contribute
-Found a bug, please [create an issue](https://github.com/mohitkyadav/algos-ngular/issues/new)
+Found a bug, please [create an issue](https://github.com/mohitkyadav/django_login/issues/new)
 
 ## License
 
