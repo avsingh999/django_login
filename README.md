@@ -1,10 +1,7 @@
 # django_login
 Custom login api build on the top of Django auth app.
 
-[![Build Status](https://www.travis-ci.org/mohitkyadav/algos-ngular.svg?branch=master)](https://travis-ci.org/mohitkyadav/django_login)
-[![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/mohitkyadav/django_login)
 
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/SolidScript/django_login)
 
 ## login
 navigate to http://localhost:8000/auth/login and fill out the post response with a JSON object,
@@ -25,3 +22,21 @@ navigate to http://localhost:8000/auth/logout and you'll see an accept response
 
 ## confirmation of logout
 navigate to http://localhost:8000/your_name/cards and you'll see a json response with an error.
+
+
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/SolidScript/django_login)
+## Author
+
+Mohit Kumar Yadav
+
+[<img src="https://image.flaticon.com/icons/svg/34/34238.svg" width="50" padding="10">](https://twitter.com/mukulkyadav)
+[<img src="https://www.shareicon.net/download/2015/11/02/665921_internet.svg" width="50" padding="10">](https://linkedin.com/in/mohitkyadav)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="50" padding="10">](https://github.com/mohitkyadav)
+
+## Contribute
+Found a bug, please [create an issue](https://github.com/mohitkyadav/algos-ngular/issues/new)
+
+## License
+
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](#)
+> © Mohit Kumar Yadav
